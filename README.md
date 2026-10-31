@@ -70,3 +70,15 @@ Optionally run `Create-DesktopShortcut.ps1` to create a desktop shortcut. Interf
 - Templates insert plain mathematical text; formula typesetting and equation solving are not included.
 - Input into administrator-level windows is not guaranteed when the pad runs with standard permissions.
 - Supports display scaling and multi-monitor positioning. The expanded panel needs approximately 344×330 logical pixels; very small work areas at high scaling may clip the panel.
+
+## 源码构建 / Build from source
+
+源码位于 `dev/src`。在 64 位 Windows 的 PowerShell 中，从项目根目录运行：  
+Source files are in `dev/src`. From the project root, run this command in PowerShell on 64-bit Windows:
+
+```powershell
+.\dev\build.ps1
+```
+
+需要 .NET Framework 4.8 运行环境及系统自带的 .NET Framework 编译器和 WPF 程序集。脚本会生成 `MathSymbolPad.exe` 并自动嵌入图标；运行时请保留同目录的 `MathSymbolPad.exe.config`。  
+Requires .NET Framework 4.8, the Windows .NET Framework compiler and WPF assemblies. The script builds `MathSymbolPad.exe` with embedded icons. Keep `MathSymbolPad.exe.config` beside the executable when running it.
