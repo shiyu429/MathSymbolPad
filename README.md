@@ -35,8 +35,6 @@ Windows · 便携离线 / Portable & offline · .NET Framework 4.8
 2. 点击目标输入框放好光标，再点击所需符号或模板。
 3. 拖动标题移动面板，点“−”收成浮球，点“◐”设置外观，点“×”退出。
 
-可运行 `Create-DesktopShortcut.ps1` 创建桌面快捷方式。
-
 ### 运行要求与说明
 
 - 64 位 Windows，需有 .NET Framework 4.8。
@@ -62,7 +60,7 @@ A lightweight floating math symbol pad for Windows. Focus a text field, then cli
 2. Focus your target text field, then click a symbol or template.
 3. Drag the header to move the panel. Click “−” to collapse, “◐” for appearance settings or “×” to exit.
 
-Optionally run `Create-DesktopShortcut.ps1` to create a desktop shortcut. Interface labels and tooltips are currently in Chinese.
+Interface labels and tooltips are currently in Chinese.
 
 ### Requirements and notes
 
