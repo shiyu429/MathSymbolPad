@@ -15,7 +15,7 @@ Windows · 便携离线 / Portable & offline · .NET Framework 4.8
 
 | 浅色 · Light | 深色 · Dark |
 | :---: | :---: |
-| ![浅色界面 / Light interface](https://raw.githubusercontent.com/shiyu429/MathSymbolPad/main/light.png) | ![深色界面 / Dark interface](https://raw.githubusercontent.com/shiyu429/MathSymbolPad/main/dark.png) |
+| <a href="https://raw.githubusercontent.com/shiyu429/MathSymbolPad/main/light.png"><img src="https://raw.githubusercontent.com/shiyu429/MathSymbolPad/main/light.png" width="344" alt="浅色界面 / Light interface" /></a> | <a href="https://raw.githubusercontent.com/shiyu429/MathSymbolPad/main/dark.png"><img src="https://raw.githubusercontent.com/shiyu429/MathSymbolPad/main/dark.png" width="344" alt="深色界面 / Dark interface" /></a> |
 
 ## 中文
 
