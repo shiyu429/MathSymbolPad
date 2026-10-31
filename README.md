@@ -1,6 +1,6 @@
 <div align="center">
 
-# Math Symbol Pad
+# Math Symbol Pad · 数学符号助手
 
 **数学符号，一点即输入。**  
 **Math symbols, one click away.**
